@@ -1,7 +1,7 @@
 Installation of Go-based tools.
 
-First install golang-go by command sudo apt install golang-go
-If already installed then check it by using command go version, if it shows the version then it is installed.
+First install golang-go by command (sudo apt install golang-go)
+If already installed then check it by using command (go version), if it shows the version then it is installed.
 
 1) installation of subfinder(subdomain discovery tool)
   command:- go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
